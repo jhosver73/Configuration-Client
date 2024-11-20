@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: REST-User
-
 server:
   port: 9002
   
